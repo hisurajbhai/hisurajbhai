@@ -45,17 +45,7 @@ Backend Developer who enjoys building scalable backend systems and modern web/mo
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,react,js,html,css,nodejs,git,github,docker,aws,postman,jenkins" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hisurajbhai&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisurajbhai&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,react,js,html,css,nodejs,git,github,aws,postman,jenkins" />
 </p>
 
 ---
