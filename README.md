@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
-<h3 align="center">Passionate Software Engineer focused on scalable backend systems and modern web/mobile applications</h3>
+<h3 align="center">Backend Developer who enjoys building scalable applications and exploring modern web and mobile technologies
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hisurajbhai&label=Profile%20views&color=0e75b6&style=flat" alt="hisurajbhai" /> </p>
 
