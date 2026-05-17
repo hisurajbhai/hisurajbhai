@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
 
 <h3 align="center">
-Backend Developer who enjoys building scalable backend systems and modern web/mobile applications 🚀
+Backend Engineer | Java & Spring Boot Specialist | Driven by Innovation
+
 </h3>
 
 <p align="center">
